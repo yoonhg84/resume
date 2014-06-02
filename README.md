@@ -2,7 +2,7 @@
 
 ## 도서관 좌석 정보
 전국 공공, 대학 열람실 좌석 현황 조회
-- 기간 : 2010/6 ~ 현재
+- 기간 : 2010/6 (Android) ~ 현재, 2012/2 (iOS) ~ 현재
 - 역할 : API 서버 / 안드로이드 클라이언트 / 아이폰 클라이언트 개발
 - 사용기술 : PHP, MySQL, JSON, Android SDK, iOS SDK
 - [PlayStore](https://play.google.com/store/apps/details?id=yhg.library.cau)
