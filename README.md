@@ -1,16 +1,40 @@
 # 경력기술서
 
-## ForceTouchBand
+## ???? (현재 공개 불가)
+여러 센서데이터를 측정 디바이스에서 Bluetooth로 Android에 전송하고 Android 에서는 값을 확인할 수 있게 Visualization
+- 기간 : 2014/10/16 ~ 2014/12/01
+- 역할 : Android 전담 개발, Python 통신 코드 개발
+- 사용기술 : Bluetooth
+- IDE/Build : Android Studio, Gradle, Sublime Text
+
+## app.eal (v1.1.4, v1.1.5)
+이미 완성되어 있는 앱 업데이트
+
+GoogleAnalytics 적용, Flurry 적용, 디자인 변경
+- 기간 : 2014/10/27 ~ 2014/11/5
+- 역할 : iOS
+- IDE/Build : XCode, AppCode
+- [AppStore](https://itunes.apple.com/us/app/app.eal-prototype-your-app/id608380878)
+
+## SmartWatchBand
+멀티 압력 터치 센서를 이용하여 Android Watch 동작. 데모 5가지.
+- 기간 : 2014/09/23 ~ 2014/10/6
+- 역할 : Android, Android Watch Client
+- 사용기술 : USB Serial Communication, Bluetooth
+- IDE/Build : Android Studio, Gradle
+
+## ForceTouchBand Visualization
 멀티 압력 터치 센서의 데이터를 파일로 읽어 3D Visualization
 - 기간 : 2014/8/19 ~ 2014/8/26
 - 역할 : Android Client
+- 사용기술 : Android OpenGL ES
+- IDE/Build : Android Studio, Gradle
+- ![Screenshot](images/forcetouchband_01_thumbnail.png)
 
 ## 뒤돌아보지마
 귀신에게서 도망가는 게임. 3가지(왼쪽,오른쪽,전진) 선택지 중 하나를 선택하며 가장 많이 도망가는 기록을 갱신하는 게임
 - 기간 : 2014/7/24 ~ 2014/7/28 (1.0)
 - 역할 : 아이디어 기획 / 테스트
-- 사용기술 : Android OpenGL ES
-- IDE/Build : Android Studio, Gradle
 - [PlayStore](https://play.google.com/store/apps/details?id=com.blackhushpuppy.dontlookback)
 
 ## 도서관 좌석 정보
