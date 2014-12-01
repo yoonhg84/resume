@@ -1,9 +1,16 @@
 # 경력기술서
 
+## ForceTouchBand
+멀티 압력 터치 센서의 데이터를 파일로 읽어 3D Visualization
+- 기간 : 2014/8/19 ~ 2014/8/26
+- 역할 : Android Client
+
 ## 뒤돌아보지마
 귀신에게서 도망가는 게임. 3가지(왼쪽,오른쪽,전진) 선택지 중 하나를 선택하며 가장 많이 도망가는 기록을 갱신하는 게임
 - 기간 : 2014/7/24 ~ 2014/7/28 (1.0)
 - 역할 : 아이디어 기획 / 테스트
+- 사용기술 : Android OpenGL ES
+- IDE/Build : Android Studio, Gradle
 - [PlayStore](https://play.google.com/store/apps/details?id=com.blackhushpuppy.dontlookback)
 
 ## 도서관 좌석 정보
@@ -11,6 +18,7 @@
 - 기간 : 2010/6 (Android) ~ 현재, 2012/2 (iOS) ~ 현재
 - 역할 : API 서버 / 안드로이드 클라이언트 / 아이폰 클라이언트 개발
 - 사용기술 : PHP, MySQL, JSON, Android SDK, iOS SDK
+- IDE/Build : Eclipse => Android Studio, Gradle / XCode => XCode, AppCode
 - [PlayStore](https://play.google.com/store/apps/details?id=yhg.library.cau)
 - [AppStore](https://itunes.apple.com/us/app/doseogwan-jwaseog-jeongbo/id498836252?l=ko&ls=1&mt=8)
 
