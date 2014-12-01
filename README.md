@@ -1,6 +1,12 @@
 # 경력기술서
 
-## ???? (현재 공개 불가)
+## Channeling iOS
+공통된 채널을 입력한 사람들끼리 익명 커뮤니케이션
+- 기간 : 2014/10/15 ~ 진행중
+- 역할 : iOS 개발
+- IDE/Build : XCode, AppCode
+
+## ????
 여러 센서데이터를 측정 디바이스에서 Bluetooth로 Android에 전송하고 Android 에서는 값을 확인할 수 있게 Visualization
 - 기간 : 2014/10/16 ~ 2014/12/01
 - 역할 : Android 전담 개발, Python 통신 코드 개발
