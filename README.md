@@ -1,12 +1,13 @@
 # 경력기술서
 
+
 ## Channeling iOS
 공통된 채널을 입력한 사람들끼리 익명 커뮤니케이션
-- 기간 : 2014/10/15 ~ 진행중
+- 기간(v0.1.0) : 2014/10/15 ~ 2014/12/29
 - 역할 : iOS 개발
 - IDE/Build : XCode, AppCode
 
-## ????
+## EyeWave
 여러 센서데이터를 측정 디바이스에서 Bluetooth로 Android에 전송하고 Android 에서는 값을 확인할 수 있게 Visualization
 - 기간 : 2014/10/16 ~ 2014/12/01
 - 역할 : Android 전담 개발, Python 통신 코드 개발
@@ -15,6 +16,12 @@
 
 ## app.eal (v1.1.4, v1.1.5)
 이미 완성되어 있는 앱 업데이트
+- 기간(v1.1.4) : 2014/10/27 ~ 2014/11/05
+- 기간(v1.1.5) : 2014/11/06 ~ 2014/12/10
+- 기간(v1.1.6) : 2014/12/10 ~ 2014/12/27
+- 역할 : iOS 앱 업데이트
+- IDE/Build : XCode, AppCode
+- [AppStore](https://itunes.apple.com/us/app/app.eal-prototype-your-app/id608380878)
 
 GoogleAnalytics 적용, Flurry 적용, 디자인 변경
 - 기간 : 2014/10/27 ~ 2014/11/5
