@@ -17,8 +17,14 @@
 ## app.eal (v1.1.4, v1.1.5)
 이미 완성되어 있는 앱 업데이트
 - 기간(v1.1.4) : 2014/10/27 ~ 2014/11/05
+  - iOS 8 지원
+  - GoogleAnalytics 적용, Flurry 적용
+  - flat 디자인 적용
 - 기간(v1.1.5) : 2014/11/06 ~ 2014/12/10
+  - E-mail 수집 기능 추가
 - 기간(v1.1.6) : 2014/12/10 ~ 2014/12/27
+  - iPhone6, iPhone6 Plus 지원
+  - 데모 프로젝트 변경
 - 역할 : iOS 앱 업데이트
 - IDE/Build : XCode, AppCode
 - [AppStore](https://itunes.apple.com/us/app/app.eal-prototype-your-app/id608380878)
