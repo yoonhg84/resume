@@ -29,12 +29,6 @@
 - IDE/Build : XCode, AppCode
 - [AppStore](https://itunes.apple.com/us/app/app.eal-prototype-your-app/id608380878)
 
-GoogleAnalytics 적용, Flurry 적용, 디자인 변경
-- 기간 : 2014/10/27 ~ 2014/11/5
-- 역할 : iOS
-- IDE/Build : XCode, AppCode
-- [AppStore](https://itunes.apple.com/us/app/app.eal-prototype-your-app/id608380878)
-
 ## SmartWatchBand
 멀티 압력 터치 센서를 이용하여 Android Watch 동작. 데모 5가지.
 - 기간 : 2014/09/23 ~ 2014/10/6
