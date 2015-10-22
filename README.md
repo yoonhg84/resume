@@ -1,5 +1,10 @@
 # 경력기술서
 
+## 돛단배
+익명 채팅앱
+- 기간 : 2015/??/?? ~
+- 역할 : iOS 앱 개발
+- IDE : XCode, AppCode
 
 ## EyeWave
 여러 센서데이터를 측정 디바이스에서 Bluetooth로 Android에 전송하고 Android 에서는 값을 확인할 수 있게 Visualization
