@@ -85,6 +85,7 @@
 - 역할 : 안드로이드 클라이언트 개발
 - IDE/Build : Android Studio, Gradle build
 - [PlayStore](https://play.google.com/store/apps/details?id=com.ium.blackjack.app)
+- 서비스 종료
 
 ## Hey
 글로벌 소셜데이팅 서비스
@@ -100,7 +101,7 @@
 - 기간 : 2010/10 ~ 2014/1
 - 역할 : API 서버 개발, 안드로이드 클라이언트 개발
 - 사용기술 : PHP, MySQL, JSON, Android SDK
-- 서비스 종료
+- 앱 서비스 종료
 
 ## Wisdome
 개인적으로 관심있는 Wisdome 모임 조회 앱
@@ -130,3 +131,4 @@
 - 기간 : 2010/7 ~ 2010/11
 - 역할 : 안드로이드 클라이언트 개발
 - [AppStore](https://play.google.com/store/apps/details?id=yhg.library.book)
+- 앱 서비스 종료
