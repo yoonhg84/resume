@@ -7,6 +7,18 @@
 - 역할 : iOS 앱 개발
 - IDE : XCode, AppCode
 
+## 바풀
+공부소셜 Q&A
+- 기간 : 2015/01/05 ~ 현재
+- 소속회사명 : (주)바풀
+- 발주처 : (주)바풀
+- 역할 : 바로풀기 iOS 앱 전담 개발
+- 사용기술 : Objective-C, Swift2, Realm, Share Extension (iOS)
+- IDE/Build : Xcode, AppCode, Cocoapods
+- [AppStore](https://itunes.apple.com/kr/app/gongbujilmunsns-balopulgi/id950618848?mt=8)
+- [PlayStore](https://play.google.com/store/apps/details?id=com.incombine.app.bapul&hl=ko)
+- [Web](https://www.bapul.net/)
+
 ## EyeWave
 여러 센서데이터를 측정 디바이스에서 Bluetooth로 Android에 전송하고 Android 에서는 값을 확인할 수 있게 Visualization
 - 기간 : 2014/10/16 ~ 2014/12/01
