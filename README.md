@@ -2,10 +2,12 @@
 
 ## 돛단배
 익명 채팅앱
-- 기간 : 2015/??/?? ~
+- 기간 : 2015/08/24 ~ 현재
 - 발주처 : Spoon & Ross
 - 역할 : iOS 앱 개발
 - IDE : XCode, AppCode
+- [AppStore](https://itunes.apple.com/kr/app/sallangsallang-dochdanbae/id523489123?mt=8)
+- [PlayStore](https://play.google.com/store/apps/details?id=net.sjang.sail&hl=ko)
 
 ## 바풀
 공부소셜 Q&A
