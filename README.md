@@ -9,7 +9,7 @@
 - [AppStore](https://itunes.apple.com/kr/app/sallangsallang-dochdanbae/id523489123?mt=8)
 - [PlayStore](https://play.google.com/store/apps/details?id=net.sjang.sail&hl=ko)
 
-## 바풀
+## 바로풀기
 공부소셜 Q&A
 - 기간 : 2015/01/05 ~ 현재
 - 소속회사명 : (주)바풀
