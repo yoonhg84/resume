@@ -24,6 +24,7 @@
 ## EyeWave
 여러 센서데이터를 측정 디바이스에서 Bluetooth로 Android에 전송하고 Android 에서는 값을 확인할 수 있게 Visualization
 - 기간 : 2014/10/16 ~ 2014/12/01
+- 소속회사명 : FuturePlay
 - 역할 : Android 전담 개발, Python 통신 코드 개발
 - 사용기술 : Bluetooth
 - IDE/Build : Android Studio, Gradle, Sublime Text
@@ -39,6 +40,7 @@
 - 기간(v1.1.6) : 2014/12/10 ~ 2014/12/27
   - iPhone6, iPhone6 Plus 지원
   - 데모 프로젝트 변경
+- 소속회사명 : FuturePlay
 - 역할 : iOS 앱 업데이트
 - IDE/Build : XCode, AppCode
 - [AppStore](https://itunes.apple.com/us/app/app.eal-prototype-your-app/id608380878)
@@ -46,6 +48,7 @@
 ## SmartWatchBand
 멀티 압력 터치 센서를 이용하여 Android Watch 동작. 데모 5가지.
 - 기간 : 2014/09/23 ~ 2014/10/6
+- 소속회사명 : FuturePlay
 - 역할 : Android, Android Watch Client
 - 사용기술 : USB Serial Communication, Bluetooth
 - IDE/Build : Android Studio, Gradle
@@ -53,6 +56,7 @@
 ## ForceTouchBand Visualization
 멀티 압력 터치 센서의 데이터를 파일로 읽어 3D Visualization
 - 기간 : 2014/8/19 ~ 2014/8/26
+- 소속회사명 : FuturePlay
 - 역할 : Android Client
 - 사용기술 : Android OpenGL ES
 - IDE/Build : Android Studio, Gradle
