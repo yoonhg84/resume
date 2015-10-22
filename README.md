@@ -3,6 +3,7 @@
 ## 돛단배
 익명 채팅앱
 - 기간 : 2015/??/?? ~
+- 발주처 : Spoon & Ross
 - 역할 : iOS 앱 개발
 - IDE : XCode, AppCode
 
