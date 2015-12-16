@@ -1,9 +1,13 @@
 # 경력기술서
 
-## ???
-????
-- 기간 : 2015/11/17 ~ 
+## Barovoca
+iOS
+- 기간 : 2015/11/17 ~ 2015/12/16 (1.0.0 업로드)
 - 개발환경 : Xcode, Appcode, iOS9, Swift2
+
+Android
+- 기간 : 2015/12/16 ~ ?
+- 개발환경 : Android Studio, Kotlin, gradle
 
 ## 돛단배
 익명 채팅앱
