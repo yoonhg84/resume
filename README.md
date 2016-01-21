@@ -7,7 +7,7 @@ iOS
 - [AppStore](https://appsto.re/kr/37xQ_.i)
 
 Android
-- 기간 : 2015/12/16 ~ ?
+- 기간 : 2015/12/16 ~ 2016/1/21 (1.0.0)
 - 개발환경 : Android Studio, Kotlin, gradle
 
 ## 돛단배
