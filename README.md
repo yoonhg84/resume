@@ -1,5 +1,11 @@
 # 이력서
 
+[Blog](http://blog.chopestory.net/)
+
+[Facebook](https://www.facebook.com/yoonhg84)
+
+[LinkedIn](https://www.linkedin.com/in/yoonhg84)
+
 ## 경력
 바풀
 - 2015/01/05 ~ 현재
