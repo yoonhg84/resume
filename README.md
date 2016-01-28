@@ -59,37 +59,39 @@ Wisdome 모임 조회 앱
 ## 회사 프로젝트
 
 ### 바로 단어장
+- 소속 : 바풀
+- 발주처 : 바풀
+- 역할 : Android, iOS 앱 개발
+
 iOS
-- 기간 : 2015/11/17 ~ 2015/12/16 (1.0.0 업로드) 2015/12/22(1.0.0 릴리즈)
-- 개발환경 : Xcode, Appcode, iOS9, Swift2
+- 기간 : 2015/11/17 ~ 현재
+- 사용기술 : iOS, Swift, Realm
 - [AppStore](https://appsto.re/kr/37xQ_.i)
 
 Android
-- 기간 : 2015/12/16 ~ 2016/1/21 (1.0.0)
-- 개발환경 : Android Studio, Kotlin, gradle
+- 기간 : 2015/12/16 ~ 현재
+- 사용기술 : Android, Kotlin, Realm
+- [PlayStore](https://goo.gl/Xqs0Z4)
 
 ### 바로풀기
 공부소셜 Q&A
 - 기간 : 2015/01/05 ~ 현재
-- 소속회사명 : (주)바풀
-- 발주처 : (주)바풀
-- 역할 : 바로풀기 iOS 앱 전담 개발
-- 사용기술 : Objective-C, Swift2, Realm, Share Extension (iOS)
-- IDE/Build : Xcode, AppCode, Cocoapods
+- 소속 : 바풀
+- 발주처 : 바풀
+- 역할 : iOS 앱 개발
+- 사용기술 : iOS, Objective-C, Swift, Realm, Share Extension (iOS)
 - [AppStore](https://itunes.apple.com/kr/app/gongbujilmunsns-balopulgi/id950618848?mt=8)
-- [PlayStore](https://play.google.com/store/apps/details?id=com.incombine.app.bapul&hl=ko)
-- [Web](https://www.bapul.net/)
 
 ### EyeWave
 여러 센서데이터를 측정 디바이스에서 Bluetooth로 Android에 전송하고 Android 에서는 값을 확인할 수 있게 Visualization
 - 기간 : 2014/10/16 ~ 2014/12/01
-- 소속회사명 : FuturePlay
-- 역할 : Android 전담 개발, Python 통신 코드 개발
-- 사용기술 : Bluetooth
-- IDE/Build : Android Studio, Gradle, Sublime Text
+- 소속 : 퓨처플레이
+- 발주처 : 퓨처플레이
+- 역할 : Android 앱 개발, Python 통신 코드 개발
+- 사용기술 : Android, Bluetooth, Python
 
 ### app.eal (v1.1.4, v1.1.5)
-이미 완성되어 있는 앱 업데이트
+간단한 프로토타입을 만들 수 있는 앱
 - 기간(v1.1.4) : 2014/10/27 ~ 2014/11/05
   - iOS 8 지원
   - GoogleAnalytics 적용, Flurry 적용
@@ -99,60 +101,61 @@ Android
 - 기간(v1.1.6) : 2014/12/10 ~ 2014/12/27
   - iPhone6, iPhone6 Plus 지원
   - 데모 프로젝트 변경
-- 소속회사명 : FuturePlay
+- 소속 : 퓨처플레이
+- 발주처 : 퓨처플레이
 - 역할 : iOS 앱 업데이트
-- IDE/Build : XCode, AppCode
+- 사용기술 : iOS
 - [AppStore](https://itunes.apple.com/us/app/app.eal-prototype-your-app/id608380878)
 
 ### SmartWatchBand
 멀티 압력 터치 센서를 이용하여 Android Watch 동작. 데모 5가지.
 - 기간 : 2014/09/23 ~ 2014/10/6
-- 소속회사명 : FuturePlay
-- 역할 : Android, Android Watch Client
-- 사용기술 : USB Serial Communication, Bluetooth
-- IDE/Build : Android Studio, Gradle
+- 소속 : 퓨처플레이
+- 발주처 : 퓨처플레이
+- 역할 : Android, Android Wear 앱 개발
+- 사용기술 : Android, Android Wear, Bluetooth, Serial Communication
 
 ### ForceTouchBand Visualization
 멀티 압력 터치 센서의 데이터를 파일로 읽어 3D Visualization
 - 기간 : 2014/8/19 ~ 2014/8/26
-- 소속회사명 : FuturePlay
-- 역할 : Android Client
-- 사용기술 : Android OpenGL ES
-- IDE/Build : Android Studio, Gradle
+- 소속 : 퓨처플레이
+- 발주처 : 퓨처플레이
+- 역할 : Android 앱 개발
+- 사용기술 : Android, OpenGL ES
 - ![Screenshot](images/forcetouchband_01_thumbnail.png)
 
 ### 이상형 오디션
 나만의 이상형을 찾는 서비스
 - 기간 : 2014/03/10 ~ 2014/04/18
-- 소속회사명 : (주)이음소시어스
-- 발주처 : (주)이음소시어스
-- 역할 : 안드로이드 클라이언트 개발
-- IDE/Build : Android Studio, Gradle build
-- [PlayStore](https://play.google.com/store/apps/details?id=com.ium.blackjack.app)
+- 소속 : 이음소시어스
+- 발주처 : 이음소시어스
+- 역할 : Android 앱 개발
+- 사용기술 : Android
 - 서비스 종료
 
 ### Hey
 글로벌 소셜데이팅 서비스
 - 기간 : 2013/05/23 ~ 2014/01/14
-- 소속회사명 : (주)이음소시어스
-- 발주처 : (주)이음소시어스
-- 역할 : 아이폰 클라이언트 개발
-- IDE : XCode
+- 소속 : 이음소시어스
+- 발주처 : 이음소시어스
+- 역할 : iOS 앱 개발
+- 사용기술 : iOS
 - 서비스종료
 
 ### 이음 3.0
 소셜데이팅 서비스
 - 기간 : 2012/12 ~ 2013/5
-- 소속회사명 : (주)이음소시어스
-- 발주처 : (주)이음소시어스
-- 역할 : 서버 개발 (주 담당), 안드로이드/아이폰 클라이언트 개발 (일부 기능 개발)
-- IDE : STS, Eclipse, XCode
-- [PlayStore](https://play.google.com/store/apps/details?id=net.ium.mobile.android)
-- [AppStore](https://itunes.apple.com/us/app/ieum-guggadaepyo-sogaeting/id463416244?l=ko&ls=1&mt=8)
+- 소속 : 이음소시어스
+- 발주처 : 이음소시어스
+- 역할 : API 서버 개발 (개발 마무리), Android/iOS 앱 개발 (일부 기능 개발)
+- 사용기술 : Spring, Android, iOS
+- 새 버전으로 업데이트됨
 
 ### 이음 2.0
 소셜데이팅 서비스
 - 기간 : 2012/8 ~ 2012/10
-- 소속회사명 : (주)이음소시어스
-- 발주처 : (주)이음소시어스
-- 역할 : 안드로이드 클라이언트 유지보수
+- 소속 : 이음소시어스
+- 발주처 : 이음소시어스
+- 역할 : Android 앱 유지보수
+- 사용기술 : Android
+- 새 버전으로 업데이트됨
