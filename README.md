@@ -23,13 +23,6 @@ CMSKorea
 - 2007/03/05 ~ 2008/02/29
 
 ## 개인 프로젝트
-### 돛단배
-익명 채팅앱 iOS 새 버전 개발
-- 기간 : 2015/08/24 ~ 현재
-- 발주처 : Spoon & Ross
-- 역할 : iOS 앱 개발
-- 사용기술 : Objective-C
-- [AppStore](https://itunes.apple.com/kr/app/sallangsallang-dochdanbae/id523489123?mt=8)
 
 ### 도서관 좌석 정보
 전국 공공, 대학 열람실 좌석 현황 조회 가능한 앱
