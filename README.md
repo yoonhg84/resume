@@ -42,7 +42,7 @@
 - 앱 서비스 종료
 
 ### Wisdome
-Wisdome 모임 조회 앱
+[Wisdome](http://www.wisdo.me) 모임 조회 앱
 
 회사와 상관없이 재미로 개발
 - 기간 : 2013/10 ~ 2014/1
@@ -61,7 +61,6 @@ Wisdome 모임 조회 앱
 
 ### 바로 단어장
 - 소속 : 바풀
-- 발주처 : 바풀
 - 역할 : Android, iOS 앱 개발
 
 iOS
@@ -82,7 +81,6 @@ Android
 공부소셜 Q&A
 - 기간 : 2015/01/05 ~ 현재
 - 소속 : 바풀
-- 발주처 : 바풀
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS, Objective-C, Swift, Realm, Share Extension (iOS)
 - [AppStore](https://itunes.apple.com/kr/app/gongbujilmunsns-balopulgi/id950618848?mt=8)
@@ -93,7 +91,6 @@ Android
 여러 센서데이터를 측정 디바이스에서 Bluetooth로 Android에 전송하고 Android 에서는 값을 확인할 수 있게 Visualization
 - 기간 : 2014/10/16 ~ 2014/12/01
 - 소속 : 퓨처플레이
-- 발주처 : 퓨처플레이
 - 역할 : Android 앱 개발, Python 통신 코드 개발
 - 사용기술 : Android, Bluetooth, Python
 
@@ -112,7 +109,6 @@ Android
   - iPhone6, iPhone6 Plus 지원
   - 데모 프로젝트 변경
 - 소속 : 퓨처플레이
-- 발주처 : 퓨처플레이
 - 역할 : iOS 앱 업데이트
 - 사용기술 : iOS
 - [AppStore](https://itunes.apple.com/us/app/app.eal-prototype-your-app/id608380878)
@@ -121,7 +117,6 @@ Android
 멀티 압력 터치 센서를 이용하여 Android Watch 동작. 데모 5가지.
 - 기간 : 2014/09/23 ~ 2014/10/6
 - 소속 : 퓨처플레이
-- 발주처 : 퓨처플레이
 - 역할 : Android, Android Wear 앱 개발
 - 사용기술 : Android, Android Wear, Bluetooth, Serial Communication
 
@@ -129,7 +124,6 @@ Android
 멀티 압력 터치 센서의 데이터를 파일로 읽어 3D Visualization
 - 기간 : 2014/8/19 ~ 2014/8/26
 - 소속 : 퓨처플레이
-- 발주처 : 퓨처플레이
 - 역할 : Android 앱 개발
 - 사용기술 : Android, OpenGL ES
 - ![Screenshot](images/forcetouchband_01_thumbnail.png)
@@ -138,7 +132,6 @@ Android
 나만의 이상형을 찾는 서비스
 - 기간 : 2014/03/10 ~ 2014/04/18
 - 소속 : 이음소시어스
-- 발주처 : 이음소시어스
 - 역할 : Android 앱 개발
 - 사용기술 : Android
 - 서비스 종료
@@ -149,7 +142,6 @@ Android
 글로벌 소셜데이팅 서비스
 - 기간 : 2013/05/23 ~ 2014/01/14
 - 소속 : 이음소시어스
-- 발주처 : 이음소시어스
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS
 - 서비스종료
@@ -160,7 +152,6 @@ Android
 소셜데이팅 서비스
 - 기간 : 2012/12 ~ 2013/5
 - 소속 : 이음소시어스
-- 발주처 : 이음소시어스
 - 역할 : API 서버 개발 (개발 마무리), Android/iOS 앱 개발 (일부 기능 개발)
 - 사용기술 : Spring, Android, iOS
 - 새 버전으로 업데이트됨
@@ -171,7 +162,6 @@ Android
 소셜데이팅 서비스
 - 기간 : 2012/8 ~ 2012/10
 - 소속 : 이음소시어스
-- 발주처 : 이음소시어스
 - 역할 : Android 앱 유지보수
 - 사용기술 : Android
 - 새 버전으로 업데이트됨
