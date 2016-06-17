@@ -34,6 +34,8 @@
 - [PlayStore](https://play.google.com/store/apps/details?id=yhg.library.cau)
 - [AppStore](https://itunes.apple.com/us/app/doseogwan-jwaseog-jeongbo/id498836252?l=ko&ls=1&mt=8)
 
+<img src="images/library_seat_1.png" width="160"/> <img src="images/library_seat_2.png" width="160"/> <img src="images/library_seat_3.png" width="160"/> <img src="images/library_seat_4.png" width="160"/> <img src="images/library_seat_5.png" width="160"/>
+
 ### 중앙인
 중앙대 커뮤니티 게시판 앱
 - 기간 : 2010/10 ~ 2014/1
