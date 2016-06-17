@@ -132,6 +132,8 @@ Android
 - 사용기술 : Android
 - 서비스 종료
 
+<img src="images/audition_1.jpg" width="160"/> <img src="images/audition_2.jpg" width="160"/> <img src="images/audition_3.jpg" width="160"/> <img src="images/audition_4.jpg" width="160"/>
+
 ### Hey
 글로벌 소셜데이팅 서비스
 - 기간 : 2013/05/23 ~ 2014/01/14
@@ -140,6 +142,8 @@ Android
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS
 - 서비스종료
+
+<img src="images/hey_1.jpeg" width="160"/> <img src="images/hey_2.jpeg" width="160"/> <img src="images/hey_3.jpeg" width="160"/> <img src="images/hey_4.jpeg" width="160"/> <img src="images/hey_5.jpeg" width="160"/>
 
 ### 이음 3.0
 소셜데이팅 서비스
