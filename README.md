@@ -81,6 +81,8 @@ Android
 - 사용기술 : iOS, Objective-C, Swift, Realm, Share Extension (iOS)
 - [AppStore](https://itunes.apple.com/kr/app/gongbujilmunsns-balopulgi/id950618848?mt=8)
 
+<img src="images/bapul_1.jpeg" width="160"/> <img src="images/bapul_2.jpeg" width="160"/> <img src="images/bapul_3.jpeg" width="160"/> <img src="images/bapul_4.jpeg" width="160"/> <img src="images/bapul_5.jpeg" width="160"/> <img src="images/bapul_6.jpeg" width="160"/>
+
 ### EyeWave
 여러 센서데이터를 측정 디바이스에서 Bluetooth로 Android에 전송하고 Android 에서는 값을 확인할 수 있게 Visualization
 - 기간 : 2014/10/16 ~ 2014/12/01
