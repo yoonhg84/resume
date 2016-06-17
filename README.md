@@ -162,6 +162,8 @@ Android
 - 사용기술 : Spring, Android, iOS
 - 새 버전으로 업데이트됨
 
+<img src="images/ium3_1.png" width="160"/> <img src="images/ium3_2.png" width="160"/> <img src="images/ium3_3.png" width="160"/> <img src="images/ium3_4.png" width="160"/>
+
 ### 이음 2.0
 소셜데이팅 서비스
 - 기간 : 2012/8 ~ 2012/10
