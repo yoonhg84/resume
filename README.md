@@ -97,8 +97,9 @@ Android
 
 <img src="images/eyewave_1.png" width="160"/>
 
-### app.eal (v1.1.4, v1.1.5)
+### app.eal (v1.1.4 ~ v1.1.6)
 간단한 프로토타입을 만들 수 있는 앱
+
 - 기간(v1.1.4) : 2014/10/27 ~ 2014/11/05
   - iOS 8 지원
   - GoogleAnalytics 적용, Flurry 적용
