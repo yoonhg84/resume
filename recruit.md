@@ -113,5 +113,43 @@
 - 네트워크 환경에서 작동하는 모바일 앱/서비스 개발 경력 있으시면 우대
 - 긍적적이고 생산적인 토론을 즐기시는 분이면 우대
 
+###LINE Corporation
+
+**Messenger**
+- [채용정보](http://recruit.linepluscorp.com/lineplus/career/detail/20000236?classId=&entTypeCd=&page=)
+
+>- 각 OS system(Android, iOS, Windows, Mac OSX)에 대한 지식을 보유하신 분
+- Java / C,C++ / Objective-C / Swift/ DB에 대한 지식 및 경험을 보유하신 분 
+- 모바일 네트워크에 대한 지식 및 경험을 보유하신 분 
+- Design(설계),Debugging, Algorithm, Asynchronous IO, 자료구조의 이해가 가능하신 분 
+﻿- LINE 의 글로벌 도전에 동참하고 성공 경험을 만들어 가기를 원하시는 분
+- 해외 출장 / 근무에 결격 사유가 없으신 분
+
+**Camera**
+- [채용정보](http://recruit.linepluscorp.com/lineplus/career/detail/20000294?classId=&entTypeCd=&page=2)
+
+>- 자료구조, 운영 체제, 네트워크의 기초 이론 지식이 탄탄한 분 
+- 모바일 네트워크에 대한 지식 및 경험 보유자 
+- Design(설계),Debugging, Algorithm, Asynchronous IO, 자료구조 이해가능자 
+- 프로그래밍을 즐기는 분 
+- 일을 좋아하고, 동료에 대한 배려와 존중하는 마음을 가진 분 
+- 해외 출장/근무에 결격 사유가 없는 분  
+
+**Pay**
+- [채용정보](http://recruit.linepluscorp.com/lineplus/career/detail/20000288?classId=&entTypeCd=&page=2)
+
+>- 경력 5년 이상
+- Android, iOS Platform에 대한 지식보유자
+- Java / C,C++ / Object C / Swift / DB에 대한 지식 및 경험 보유자
+- 모바일 네트워크에 대한 지식 및 경험 보유자
+- 해외 출장/근무에 결격 사유가 없는 분
+
+**PLAY**
+- [채용정보](http://recruit.linepluscorp.com/lineplus/career/detail/20000352?classId=&entTypeCd=&page=3)
+
+>- IOS, Android 앱 개발 경험자 우대. 특히 Android 앱 개발
+- Cocos2d-x 개발 경험자 우대
+- C++, Object-C, Java 와 같은 언어를 사용하여소프트웨어 개발 2년이상의 경력
+
 
 
