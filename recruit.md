@@ -5,7 +5,6 @@
 ##Toss Lab
 - [회사정보](https://www.jandi.com/landing/kr/company)
 - [채용정보](https://script.google.com/macros/s/AKfycbyTC4wxoME7gu9H6L0Sb_wS0YdhOfbjcHKU9vtQ5ZvSobK1jC8/exec)
-- 자격요건
 
 >- Objective-C 및 Cocoa Touch에 능숙
 - Core Data, Core Animation, Core Graphics, Core Text와 같은 iOS 프레임워크 경험 보유
@@ -22,10 +21,97 @@
 ##Touch Works
 - [터칭 Touching](http://www.mytouching.com/)
 - [채용정보](https://www.rocketpunch.com/jobs/8692/%ED%84%B0%EC%B9%AD-iOS-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B2%BD%EB%A0%A5)
-- 팀원들이 원하는 개발자는
 
 >- Object C(또는 Swift) 개발경력 2년 이상 혹은 그에 준하는 실력을 가지신 분
 - 새로운 시도 또는 배움을 두려워하지 않는 분
 - 문제 해결을 즐기시는 분
 - 커뮤니케이션을 잘하며, 동료들과 함께 일하고 결정하는 것에 거부감이 없는 분
 - 자유롭고 창조적인 마인드를 가지고, 서로를 존중하는 마음으로 협업할 수 있는 분
+
+##Kakao
+
+**카카오톡 이모티콘**
+- [채용정보](http://www.kakaocorp.com/recruit/progressRecruit?uid=9776)
+
+>* 소프트웨어 개발 경력 3년 이상 & 아이폰 /안드로이드 앱 개발 경력 각 1년이상
+* 네트워크와 UI 관련 부분 숙달
+* 동료간 의사소통 원활
+* 상용서비스 개발 경험 우대
+
+**브런치**
+- [채용정보](http://www.kakaocorp.com/recruit/progressRecruit?uid=9690)
+
+>- Objective-C 와 Swift로 개발 가능하신 분
+- 네트워크 기반 앱 개발 경력이 있으신 분 우대
+- UGC 서비스 (유저가 콘텐츠를 생산하는 서비스) 개발 경험이 있으신 분 우대
+- 글 읽기 좋아하시는 분 두 팔 벌려 환영
+
+**카카오 스토리**
+- [채용정보](http://www.kakaocorp.com/recruit/progressRecruit?uid=9678)
+
+>- [iOS] 개발 경력 2년 이상
+- SNS는 인생의 낭비가 아니라고 생각하시는 분
+- 미려한 UX 개발이 가능하신 분
+- 적극적으로 동료들과 소통하고 책임감이 높으신 분
+- 코드 리뷰에 대한 열린 마음을 가지신 분
+
+**모바일 Photos플랫폼**
+- [채용정보](http://www.kakaocorp.com/recruit/progressRecruit?uid=9658)
+
+>- Android 및 iOS 개발 경력 3년 이상
+- 카메라 및 미디어 프레임워크를 활용한 애플리케이션 개발 경험
+- 아래 기술들에 대해 경험과 이해를 보유하신 분
+  - C/C++, NDK(JNI)
+  - OpenGL ES, GLSL
+  - Android, iOS 미디어 프레임워크
+- 디지털 영상 처리 전공자 우대
+- 오픈 소스 프로젝트 참여 경험자 우대
+- RenderScript, Metal, Vulkan 등 최신 그래픽스/프로세싱 API에 대한 이해, 활용 경험자 우대
+- 문제 해결 능력이 뛰어나며, 지속적인 학습할 자세가 되어 있으신 분
+
+**다음 카페**
+- [채용정보](http://www.kakaocorp.com/recruit/progressRecruit?uid=9656)
+
+>- iOS 개발 2년 이상
+- 밝고 긍정적인 성격
+- 새로운 것에 도전하기를 주저 하지 않는 용기
+- 솔직한 코드 리뷰에도 상처 받지 않는 강인한 마음
+- 바퀴를 재발명하지 않는 현명함
+
+**버스**
+- [채용정보](http://www.kakaocorp.com/recruit/progressRecruit?uid=9622)
+
+>- iOS 개발 경력 3년 이상
+- Objective-C에 능숙하시면서 Swift 2.x 경험이 있으시면 우대
+- 네트워크 환경에서 작동하는 모바일 앱/서비스 개발 경력
+
+**쇼핑커머스**
+- [채용정보](http://www.kakaocorp.com/recruit/progressRecruit?uid=9579)
+
+>- iOS 개발 경력 3년이상, Android 개발 경력 최소 5년이상 
+- iOS/Android 플랫폼 이해도가 높은 분 
+- 다양하고 미려한 UX 개발이 가능한 분 
+- 적극적으로 동료들과 소통하고 책임감이 높은 분 
+- 모바일 서비스 전반에 관심이 많은 분 
+
+**뮤직서비스**
+- [채용정보](http://www.kakaocorp.com/recruit/progressRecruit?uid=9561)
+
+>- 바닥부터 뒤엎어도 현 카카오뮤직 앱 보다 ‘눈에띄게 빼어나게' 만들 수 있는 자신감
+- 밤새워 WWDC 오프닝을 기다리는 호기심
+- 당연히(?) Swift
+- 이유도 모르고 당한 무수한 Reject 경험치
+- 평소에 직접 사용하는 제품/서비스를 만들고 싶은 욕망 덩어리 심장
+- Anti '변화에 대한 거부감' 포션
+- 판교 대륙 Passport
+
+**다음 지도**
+- [채용정보](http://www.kakaocorp.com/recruit/progressRecruit?uid=9541)
+
+>- iOS 개발 경력 3년 이상
+- Objective-C에 능숙하시면서 Swift 2.0 경험이 있으시면 우대
+- 네트워크 환경에서 작동하는 모바일 앱/서비스 개발 경력 있으시면 우대
+- 긍적적이고 생산적인 토론을 즐기시는 분이면 우대
+
+
+
