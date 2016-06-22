@@ -151,5 +151,52 @@
 - Cocos2d-x 개발 경험자 우대
 - C++, Object-C, Java 와 같은 언어를 사용하여소프트웨어 개발 2년이상의 경력
 
+###NAVER Corp
 
+**스마트에디터/블로그**
+- [채용정보](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20000240&classId=170&jobId=1802)
+
+> - iOS 개발 경험 1년 이상
+- 안드로이드 개발 경험 1년 이상
+- 활기찬 기운이 넘치고 타조직과도 조화롭게 협업이 가능하신 분
+- 개발이 천직이라고 생각하고 즐기시는 분
+- 다른 사람이 시키지 않아도 스스로 일을 찾아서 만들어 낼 수 있는 분
+- 아키텍처를 깊이 고민하고 가장 좋은 솔루션을 찾기 위해 노력하는 분
+
+**Vlive**
+- [채용정보](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20000348&classId=170&jobId=1780)
+
+>- iOS 앱 개발 경험 3년 이상
+- 동영상 기반 기술에 대한 이해 및 활용
+- 멀티 해상도 기기 대응에 대한 경험
+- 앱 성능 최적화 경험
+
+**LineTV**
+- [채용정보](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20000340&classId=170&jobId=1773)
+
+>- iOS 앱 개발 경험 3년 이상
+- Library 개발 경험
+- Story Board, Auto Layout 사용 경험
+- Design Pattern 에 대한 이해와 활용 경험
+- 동영상 기반 기술에 대한 이해 및 활용 경험
+- C, C++ 개발 경험 3년 이상
+- iOS 개발 경험 3년 이상
+- 앱 성능 최적화 경험
+- Swift & IAP 개발 경험이 있으신 분
+
+**모바일 게임 레코딩**
+- [채용정보](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20000240&classId=170&jobId=1324)
+
+>- 게임 엔진(언리얼&유니티)에 대한  활용 경험 및 이해도가 있으신 분
+- OpenGL 관련 경험이 있으신 분
+- iOS 또는 Android 플랫폼 개발 경험이 3년 이상인 분
+
+**네이버 지도**
+- [채용정보](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20000240&classId=170&jobId=1211)
+
+>- 2D/3D Computer graphics 에 대한 지식
+- 뛰어난 문제 해결 능력 및 디버깅 능력을 보유하신 분 
+- 대용량/고성능 소프트웨어 개발 및 GIS 개발 경험이 있으신 분 우대
+- iOS Platform에 능숙하신 분
+- OpenGL ES 기반 3D 그래픽스에 익숙한 분
 
