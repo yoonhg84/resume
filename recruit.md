@@ -113,7 +113,7 @@
 - 네트워크 환경에서 작동하는 모바일 앱/서비스 개발 경력 있으시면 우대
 - 긍적적이고 생산적인 토론을 즐기시는 분이면 우대
 
-###LINE Corporation
+###LINE
 
 **Messenger**
 - [채용정보](http://recruit.linepluscorp.com/lineplus/career/detail/20000236?classId=&entTypeCd=&page=)
@@ -151,7 +151,7 @@
 - Cocos2d-x 개발 경험자 우대
 - C++, Object-C, Java 와 같은 언어를 사용하여소프트웨어 개발 2년이상의 경력
 
-###NAVER Corp
+###NAVER
 
 **스마트에디터/블로그**
 - [채용정보](http://recruit.navercorp.com/naver/job/detail/developer?annoId=20000240&classId=170&jobId=1802)
@@ -199,4 +199,10 @@
 - 대용량/고성능 소프트웨어 개발 및 GIS 개발 경험이 있으신 분 우대
 - iOS Platform에 능숙하신 분
 - OpenGL ES 기반 3D 그래픽스에 익숙한 분
+
+###NHN Entertainment
+
+- [채용정보](http://recruit.nhnent.com/ent/recruitings/20000242?classId=170)
+
+>- 모바일 앱 개발 경력 2년 이상
 
