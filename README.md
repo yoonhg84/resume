@@ -43,6 +43,8 @@
 - 사용기술 : PHP, MySQL, Android
 - 앱 서비스 종료
 
+<img src="images/cauin_1.png" width="160"/> <img src="images/cauin_2.png" width="160"/>
+
 ### Wisdome
 [Wisdome](http://www.wisdo.me) 모임 조회 앱
 
