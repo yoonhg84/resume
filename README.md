@@ -59,6 +59,8 @@
 - 사용기술 : Android
 - 앱 서비스 종료
 
+<img src="images/cau_book_1.png" width="160"/> <img src="images/cau_book_2.png" width="160"/>
+
 ## 회사 프로젝트
 
 ### 바로 단어장
