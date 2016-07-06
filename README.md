@@ -54,6 +54,8 @@
 - 사용기술 : Android
 - 앱 서비스 종료
 
+<img src="images/wisdome_1.png" width="160"/> <img src="images/wisdome_2.png" width="160"/> <img src="images/wisdome_3.png" width="160"/>
+
 ### 중앙대 도서 정보
 중앙대 도서관 도서 검색 및 대출여부 확인 앱
 - 기간 : 2010/7 ~ 2010/11
