@@ -9,6 +9,9 @@
 [Github](https://github.com/yoonhg84)
 
 ## 경력
+[Hyperconnect](http://www.hpcnt.com/)
+- 2016/08/22 ~ 
+
 [바풀](https://www.bapul.net)
 - 2015/01/05 ~ 2016/04/30
 
