@@ -9,22 +9,23 @@ LinkedIn : https://www.linkedin.com/in/yoonhg84
 Github : https://github.com/yoonhg84
 
 ## 경력
-Hyperconnect
+
+[Hyperconnect](http://www.hpcnt.com/)
 - 2016/08/22 ~ now
 
-바풀 (https://www.bapul.net)
+[바풀](https://www.bapul.net)
 - 2015/01/05 ~ 2016/04/30
 
-퓨처플레이 (http://home.futureplay.co)
+[퓨처플레이](http://home.futureplay.co)
 - 2014/08/18 ~ 2014/12/31
 
-이음소시어스 (http://iumsocius.com)
+[이음소시어스](http://iumsocius.com)
 - 2012/08/20 ~ 2014/07/18
 
-팬택 (https://www.pantech.co.kr)
+[팬택](https://www.pantech.co.kr)
 - 2011/07/04 ~ 2012/07/31
 
-CMSKorea (http://www.cmskorea.com)
+[CMSKorea](http://www.cmskorea.com)
 - 2007/03/05 ~ 2008/02/29
 
 ## 개인 프로젝트
