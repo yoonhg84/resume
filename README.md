@@ -1,38 +1,50 @@
 # 이력서
 
-[Blog](http://blog.chopestory.net/)
+Blog : http://blog.chopestory.net
 
-[Facebook](https://www.facebook.com/yoonhg84)
+Facebook : https://www.facebook.com/yoonhg84
 
-[LinkedIn](https://www.linkedin.com/in/yoonhg84)
+LinkedIn : https://www.linkedin.com/in/yoonhg84
 
-[Github](https://github.com/yoonhg84)
+Github : https://github.com/yoonhg84
 
 ## 경력
-[바풀](https://www.bapul.net)
+Hyperconnect
+- 2016/08/22 ~ now
+
+바풀 (https://www.bapul.net)
 - 2015/01/05 ~ 2016/04/30
 
-[퓨처플레이](http://home.futureplay.co)
+퓨처플레이 (http://home.futureplay.co)
 - 2014/08/18 ~ 2014/12/31
 
-[이음소시어스](http://iumsocius.com)
+이음소시어스 (http://iumsocius.com)
 - 2012/08/20 ~ 2014/07/18
 
-[팬택](https://www.pantech.co.kr)
+팬택 (https://www.pantech.co.kr)
 - 2011/07/04 ~ 2012/07/31
 
-[CMSKorea](http://www.cmskorea.com)
+CMSKorea (http://www.cmskorea.com)
 - 2007/03/05 ~ 2008/02/29
 
 ## 개인 프로젝트
+
+### 외계어번역
+
+10대에서 주로 사용하는 외계어([도깨비어](https://namu.wiki/w/%EB%8F%84%EA%B9%A8%EB%B9%84%EB%A7%90), 귀신어)를 생성해준다.
+- 기간 : 2010/10/6 ~ 2016/10/18
+- 사용기술 : Swift
+- AppStore (https://itunes.apple.com/us/app/oegyeeobeon-yeog/id1158676898?mt=8)
+
+<img src="images/alien_1.png" width="160"/> <img src="images/alien_2.png" width="160"/> <img src="images/alien_3.png" width="160"/> <img src="images/alien_4.png" width="160"/>
 
 ### 도서관 좌석 정보
 전국 공공, 대학 열람실 좌석 현황 조회 가능한 앱
 - 기간 : 2010/6 ~ 현재
 - 역할 : API 서버 / Android 앱 / iOS 앱
-- 사용기술 : PHP, MySQL, Android, iOS, RealM, Swift
-- [PlayStore](https://play.google.com/store/apps/details?id=yhg.library.cau)
-- [AppStore](https://itunes.apple.com/us/app/doseogwan-jwaseog-jeongbo/id498836252?l=ko&ls=1&mt=8)
+- 사용기술 : PHP, MySQL, Android, iOS, Realm, Swift
+- PlayStore (https://play.google.com/store/apps/details?id=yhg.library.cau)
+- AppStore (https://itunes.apple.com/us/app/doseogwan-jwaseog-jeongbo/id498836252?l=ko&ls=1&mt=8)
 
 <img src="images/library_seat_1.png" width="160"/> <img src="images/library_seat_2.png" width="160"/> <img src="images/library_seat_3.png" width="160"/> <img src="images/library_seat_4.png" width="160"/> <img src="images/library_seat_5.png" width="160"/> <img src="images/library_seat_6.png" width="160"/>
 
@@ -41,18 +53,18 @@
 - 기간 : 2010/10 ~ 2014/1
 - 역할 : API 서버 / Android 앱
 - 사용기술 : PHP, MySQL, Android
-- 앱 서비스 종료
+- **앱 서비스 종료**
 
 <img src="images/cauin_1.png" width="160"/> <img src="images/cauin_2.png" width="160"/>
 
 ### Wisdome
-[Wisdome](http://www.wisdo.me) 모임 조회 앱
+Wisdome (http://www.wisdo.me) 모임 조회 앱
 
 회사와 상관없이 재미로 개발
 - 기간 : 2013/10 ~ 2014/1
 - 역할 : Android 앱 개발 
 - 사용기술 : Android
-- 앱 서비스 종료
+- **앱 서비스 종료**
 
 <img src="images/wisdome_1.png" width="160"/> <img src="images/wisdome_2.png" width="160"/> <img src="images/wisdome_3.png" width="160"/>
 
@@ -61,7 +73,7 @@
 - 기간 : 2010/7 ~ 2010/11
 - 역할 : Android 앱 개발
 - 사용기술 : Android
-- 앱 서비스 종료
+- **앱 서비스 종료**
 
 <img src="images/cau_book_1.png" width="160"/> <img src="images/cau_book_2.png" width="160"/>
 
@@ -74,14 +86,14 @@
 iOS
 - 기간 : 2015/11/17 ~ 현재
 - 사용기술 : iOS, Swift, Realm
-- [AppStore](https://appsto.re/kr/37xQ_.i)
+- AppStore (https://appsto.re/kr/37xQ_.i)
 
 <img src="images/barovoca_1.jpeg" width="160"/> <img src="images/barovoca_2.jpeg" width="160"/> <img src="images/barovoca_3.jpeg" width="160"/> <img src="images/barovoca_4.jpeg" width="160"/>
 
 Android
 - 기간 : 2015/12/16 ~ 현재
 - 사용기술 : Android, Kotlin, Realm
-- [PlayStore](https://goo.gl/Xqs0Z4)
+- PlayStore (https://goo.gl/Xqs0Z4)
 
 <img src="images/barovoca_android_1.jpg" width="160"/> <img src="images/barovoca_android_2.jpg" width="160"/> <img src="images/barovoca_android_3.jpg" width="160"/> <img src="images/barovoca_android_4.jpg" width="160"/>
 
@@ -91,7 +103,7 @@ Android
 - 소속 : 바풀
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS, Objective-C, Swift, Realm, Share Extension (iOS)
-- [AppStore](https://itunes.apple.com/kr/app/gongbujilmunsns-balopulgi/id950618848?mt=8)
+- AppStore (https://itunes.apple.com/kr/app/gongbujilmunsns-balopulgi/id950618848?mt=8)
 
 <img src="images/bapul_1.jpeg" width="160"/> <img src="images/bapul_2.jpeg" width="160"/> <img src="images/bapul_3.jpeg" width="160"/> <img src="images/bapul_4.jpeg" width="160"/> <img src="images/bapul_5.jpeg" width="160"/> <img src="images/bapul_6.jpeg" width="160"/>
 
@@ -119,7 +131,7 @@ Android
 - 소속 : 퓨처플레이
 - 역할 : iOS 앱 업데이트
 - 사용기술 : iOS
-- [AppStore](https://itunes.apple.com/us/app/app.eal-prototype-your-app/id608380878)
+- AppStore (https://itunes.apple.com/us/app/app.eal-prototype-your-app/id608380878)
 
 ### SmartWatchBand
 멀티 압력 터치 센서를 이용하여 Android Watch 동작. 데모 5가지.
