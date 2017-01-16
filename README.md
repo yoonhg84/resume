@@ -80,6 +80,12 @@ Wisdome (http://www.wisdo.me) 모임 조회 앱
 
 ## 회사 프로젝트
 
+### Azar
+- 소속 : 하이퍼커넥트 
+- 역할 : iOS 앱 개발
+- 사용기술 : iOS, Swift 
+- AppStore (https://itunes.apple.com/us/app/azar-video-chat-discover/id972558973?mt=8)
+
 ### 바로 단어장
 - 소속 : 바풀
 - 역할 : Android, iOS 앱 개발
