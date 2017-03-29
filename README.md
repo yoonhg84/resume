@@ -30,6 +30,13 @@ Github : https://github.com/yoonhg84
 
 ## 개인 프로젝트
 
+### OroraNote
+
+간단한 노트앱 
+- 기간: 2016/11/6 ~ 
+- 사용기술 : Swift, Realm, Realm object server, RxSwift
+- AppStore (출시 전)
+
 ### 외계어번역
 
 10대에서 주로 사용하는 외계어([도깨비어](https://namu.wiki/w/%EB%8F%84%EA%B9%A8%EB%B9%84%EB%A7%90), 귀신어)를 생성해준다.
