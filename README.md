@@ -35,7 +35,7 @@ Github : https://github.com/yoonhg84
 간단한 노트앱 
 - 기간: 2016/11/6 ~ 
 - 사용기술 : Swift, Realm, Realm object server, RxSwift
-- AppStore (출시 전)
+- AppStore (https://itunes.apple.com/app/apple-store/id1213930464?pt=576902&ct=github_resume&mt=8)
 
 ### 외계어번역
 
