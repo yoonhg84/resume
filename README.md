@@ -105,7 +105,7 @@ iOS
 <img src="images/barovoca_1.jpeg" width="160"/> <img src="images/barovoca_2.jpeg" width="160"/> <img src="images/barovoca_3.jpeg" width="160"/> <img src="images/barovoca_4.jpeg" width="160"/>
 
 Android
-- 기간 : 2015/12/16 ~ 현재
+- 기간 : 2015/12/16 ~ 2016/04/30
 - 사용기술 : Android, Kotlin, Realm
 - PlayStore (https://goo.gl/Xqs0Z4)
 
