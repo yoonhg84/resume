@@ -98,7 +98,7 @@ Wisdome (http://www.wisdo.me) 모임 조회 앱
 - 역할 : Android, iOS 앱 개발
 
 iOS
-- 기간 : 2015/11/17 ~ 현재
+- 기간 : 2015/11/17 ~ 2016/04/30
 - 사용기술 : iOS, Swift, Realm
 - AppStore (https://appsto.re/kr/37xQ_.i)
 
@@ -113,7 +113,7 @@ Android
 
 ### 바로풀기
 공부소셜 Q&A
-- 기간 : 2015/01/05 ~ 현재
+- 기간 : 2015/01/05 ~ 2016/04/30
 - 소속 : 바풀
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS, Objective-C, Swift, Realm, Share Extension (iOS)
