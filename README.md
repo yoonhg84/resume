@@ -28,6 +28,11 @@ Github : https://github.com/yoonhg84
 [CMSKorea](http://www.cmskorea.com)
 - 2007/03/05 ~ 2008/02/29
 
+## 활동
+
+[커넥트재단](http://connect.or.kr) [Boostcamp](http://boostcamp.connect.or.kr/) 2기 iOS Tutor
+- 2017/07/04 ~ 2017/08/31
+
 ## 개인 프로젝트
 
 ### OroraNote
