@@ -30,8 +30,11 @@ Github : https://github.com/yoonhg84
 
 ## 활동
 
-[커넥트재단](http://connect.or.kr) [Boostcamp](http://boostcamp.connect.or.kr/) 2기 iOS Tutor
+[커넥트재단](http://connect.or.kr) / [Boostcamp](http://boostcamp.connect.or.kr/) - 2기 iOS Tutor
 - 2017/07/04 ~ 2017/08/31
+
+[커넥트재단](http://connect.or.kr) / [edwith](http://www.edwith.org) / [부스트코스](http://www.edwith.org/boost-course/intro) - iOS Developer 컨텐츠감수
+- 2018/01 ~ 2017/03
 
 ## 개인 프로젝트
 
@@ -95,7 +98,7 @@ Wisdome (http://www.wisdo.me) 모임 조회 앱
 ### Azar
 - 소속 : 하이퍼커넥트 
 - 역할 : iOS 앱 개발
-- 사용기술 : iOS, Swift 
+- 사용기술 : iOS, Swift, RxSwift 
 - AppStore (https://itunes.apple.com/us/app/azar-video-chat-discover/id972558973?mt=8)
 
 ### 바로 단어장
