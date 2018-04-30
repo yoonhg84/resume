@@ -34,7 +34,7 @@ Github : https://github.com/yoonhg84
 - 2017/07/04 ~ 2017/08/31
 
 [커넥트재단](http://connect.or.kr) / [edwith](http://www.edwith.org) / [부스트코스](http://www.edwith.org/boost-course/intro) - iOS Developer 컨텐츠감수
-- 2018/01 ~ 2017/03
+- 2018/01 ~ 2018/03
 
 ## 개인 프로젝트
 
