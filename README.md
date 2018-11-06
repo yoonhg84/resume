@@ -39,6 +39,13 @@ Github : https://github.com/yoonhg84
 
 ## 개인 프로젝트
 
+### 미세멍
+
+미세먼지 앱
+- 기간: 2018/7/22 ~ 
+- 사용기술 : Swift, Realm, RxSwift, ReactorKit, SnapKit
+- AppStore (https://itunes.apple.com/kr/app/%EB%AF%B8%EC%84%B8%EB%A9%8D/id1435731551?mt=8)
+
 ### OroraNote
 
 간단한 노트앱 
