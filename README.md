@@ -11,8 +11,8 @@ Github : https://github.com/yoonhg84
 ## 경력
 
 [Hyperconnect](http://www.hpcnt.com/)
-- 2016/08/22 ~ now
-- 팀장 : 2018/09/03 ~ now
+- 팀장 - 2018/09/03 ~ now
+- 사원 - 2016/08/22 ~ 2018/09/02
 
 [바풀](https://www.bapul.net)
 - 2015/01/05 ~ 2016/04/30
@@ -39,12 +39,26 @@ Github : https://github.com/yoonhg84
 
 ## 개인 프로젝트
 
+### 미세냥 
+
+미세먼지와 날씨를 고양이가 알려주는 앱
+
+미세멍과 미세냥은 하나의 코드를 공유해서 개발
+
+- 기간: 2018/12/1 ~ 2018/12/5 (v1.0.4 미세냥 첫 버전)
+- 사용기술 : Swift, RxSwift, Realm, ReactorKit, Firebase
+- AppStore (https://itunes.apple.com/kr/app/%EB%AF%B8%EC%84%B8%EB%83%A5-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EB%82%A0%EC%94%A8-%EB%B8%8C%EB%A6%AC%ED%8B%B0%EC%8B%9C%EC%88%8F%ED%97%A4%EC%96%B4/id1445273996?mt=8)
+
+<img src="images/dust_cat_1.jpg" width="160"/> <img src="images/dust_cat_2.jpg" width="160"/> <img src="images/dust_cat_3.jpg" width="160"/>
+
 ### 미세멍
 
-미세먼지 앱
-- 기간: 2018/7/22 ~ 
-- 사용기술 : Swift, Realm, RxSwift, ReactorKit, SnapKit
-- AppStore (https://itunes.apple.com/kr/app/%EB%AF%B8%EC%84%B8%EB%A9%8D/id1435731551?mt=8)
+미세먼지와 날씨를 강아지가 알려주는 앱
+- 기간: 2018/7/22 ~ 2018/10/25 (v1.0.0)
+- 사용기술 : Swift, RxSwift, Realm, ReactorKit, Firebase
+- AppStore (https://itunes.apple.com/kr/app/%EB%AF%B8%EC%84%B8%EB%A9%8D-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EB%82%A0%EC%94%A8-%EB%B9%84%EC%88%91/id1435731551?mt=8)
+
+<img src="images/dust_dog_1.jpg" width="160"/> <img src="images/dust_dog_2.jpg" width="160"/> <img src="images/dust_dog_3.jpg" width="160"/>
 
 ### OroraNote
 
