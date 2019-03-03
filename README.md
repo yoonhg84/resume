@@ -1,5 +1,7 @@
 # 이력서
 
+## 링크 
+
 Blog : http://blog.chopestory.net
 
 Facebook : https://www.facebook.com/yoonhg84
@@ -14,16 +16,16 @@ Github : https://github.com/yoonhg84
 - 팀장 - 2018/09/03 ~ now
 - 사원 - 2016/08/22 ~ 2018/09/02
 
-[바풀](https://www.bapul.net)
+[바풀/Bapul](https://www.bapul.net)
 - 2015/01/05 ~ 2016/04/30
 
-[퓨처플레이](http://home.futureplay.co)
+[퓨처플레이/FutuerPlay](http://home.futureplay.co)
 - 2014/08/18 ~ 2014/12/31
 
-[이음소시어스](http://iumsocius.com)
+[이음소시어스/IUMSOCIUS](http://iumsocius.com)
 - 2012/08/20 ~ 2014/07/18
 
-[팬택](https://www.pantech.co.kr)
+[팬택/Pantech](https://www.pantech.co.kr)
 - 2011/07/04 ~ 2012/07/31
 
 [CMSKorea](http://www.cmskorea.com)
@@ -31,10 +33,12 @@ Github : https://github.com/yoonhg84
 
 ## 활동
 
-[커넥트재단](http://connect.or.kr) / [Boostcamp](http://boostcamp.connect.or.kr/) - 2기 iOS Tutor
-- 2017/07/04 ~ 2017/08/31
+[커넥트재단/Connect](http://connect.or.kr) / [Boostcamp](http://boostcamp.connect.or.kr/) iOS Tutor
 
-[커넥트재단](http://connect.or.kr) / [edwith](http://www.edwith.org) / [부스트코스](http://www.edwith.org/boost-course/intro) - iOS Developer 컨텐츠감수
+- 2기: 2017/07/04 ~ 2017/08/31
+- 3기: 2019/01/21 ~ 2019/02/25
+
+[커넥트재단/Connect](http://connect.or.kr) / [edwith](http://www.edwith.org) / [부스트코스](http://www.edwith.org/boost-course/intro) - iOS Developer 컨텐츠감수
 - 2018/01 ~ 2018/03
 
 ## 개인 프로젝트
