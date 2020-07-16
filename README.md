@@ -2,7 +2,7 @@
 
 ## 링크 
 
-Blog : http://blog.chopestory.net
+Blog : https://chopestory.net
 
 Facebook : https://www.facebook.com/yoonhg84
 
