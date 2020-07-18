@@ -49,7 +49,7 @@ Github : https://github.com/yoonhg84
 
 - 기간: 2018/12/1 ~ 2018/12/5 (v1.0.4 미세냥 첫 버전)
 - 사용기술 : Swift, RxSwift, Realm, ReactorKit, Firebase
-- AppStore (https://itunes.apple.com/kr/app/%EB%AF%B8%EC%84%B8%EB%83%A5-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EB%82%A0%EC%94%A8-%EB%B8%8C%EB%A6%AC%ED%8B%B0%EC%8B%9C%EC%88%8F%ED%97%A4%EC%96%B4/id1445273996?mt=8)
+- AppStore (https://apple.co/3jixes8)
 
 <img src="images/dust_cat_1.jpg" width="160"/> <img src="images/dust_cat_2.jpg" width="160"/> <img src="images/dust_cat_3.jpg" width="160"/>
 
@@ -58,7 +58,7 @@ Github : https://github.com/yoonhg84
 미세먼지와 날씨를 강아지가 알려주는 앱
 - 기간: 2018/7/22 ~ 2018/10/25 (v1.0.0)
 - 사용기술 : Swift, RxSwift, Realm, ReactorKit, Firebase
-- AppStore (https://itunes.apple.com/kr/app/%EB%AF%B8%EC%84%B8%EB%A9%8D-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EB%82%A0%EC%94%A8-%EB%B9%84%EC%88%91/id1435731551?mt=8)
+- AppStore (https://apple.co/2Cn8RsQ)
 
 <img src="images/dust_dog_1.jpg" width="160"/> <img src="images/dust_dog_2.jpg" width="160"/> <img src="images/dust_dog_3.jpg" width="160"/>
 
@@ -67,14 +67,14 @@ Github : https://github.com/yoonhg84
 간단한 노트앱 
 - 기간: 2016/11/6 ~ 
 - 사용기술 : Swift, Realm, Realm object server, RxSwift
-- AppStore (https://itunes.apple.com/app/apple-store/id1213930464?pt=576902&ct=github_resume&mt=8)
+- AppStore (https://apple.co/3eHcrek)
 
 ### 외계어번역
 
 10대에서 주로 사용하는 외계어([도깨비어](https://namu.wiki/w/%EB%8F%84%EA%B9%A8%EB%B9%84%EB%A7%90), 귀신어)를 생성해준다.
 - 기간 : 2010/10/6 ~ 2016/10/18
 - 사용기술 : Swift
-- AppStore (https://itunes.apple.com/us/app/oegyeeobeon-yeog/id1158676898?mt=8)
+- AppStore (https://apple.co/3h3Y5qa)
 
 <img src="images/alien_1.png" width="160"/> <img src="images/alien_2.png" width="160"/> <img src="images/alien_3.png" width="160"/> <img src="images/alien_4.png" width="160"/>
 
@@ -83,8 +83,8 @@ Github : https://github.com/yoonhg84
 - 기간 : 2010/6 ~ 현재
 - 역할 : API 서버 / Android 앱 / iOS 앱
 - 사용기술 : PHP, MySQL, Android, iOS, Realm, Swift
-- PlayStore (https://play.google.com/store/apps/details?id=yhg.library.cau)
-- AppStore (https://itunes.apple.com/us/app/doseogwan-jwaseog-jeongbo/id498836252?l=ko&ls=1&mt=8)
+- PlayStore (https://bit.ly/3eG42bl)
+- AppStore (https://apple.co/2OxXu3K)
 
 <img src="images/library_seat_1.png" width="160"/> <img src="images/library_seat_2.png" width="160"/> <img src="images/library_seat_3.png" width="160"/> <img src="images/library_seat_4.png" width="160"/> <img src="images/library_seat_5.png" width="160"/> <img src="images/library_seat_6.png" width="160"/>
 
@@ -123,7 +123,7 @@ Wisdome (http://www.wisdo.me) 모임 조회 앱
 - 소속 : 하이퍼커넥트 
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS, Swift, RxSwift 
-- AppStore (https://itunes.apple.com/us/app/azar-video-chat-discover/id972558973?mt=8)
+- AppStore (https://apple.co/396ixnD)
 
 ### 바로 단어장
 - 소속 : 바풀
@@ -149,7 +149,6 @@ Android
 - 소속 : 바풀
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS, Objective-C, Swift, Realm, Share Extension (iOS)
-- AppStore (https://itunes.apple.com/kr/app/gongbujilmunsns-balopulgi/id950618848?mt=8)
 
 <img src="images/bapul_1.jpeg" width="160"/> <img src="images/bapul_2.jpeg" width="160"/> <img src="images/bapul_3.jpeg" width="160"/> <img src="images/bapul_4.jpeg" width="160"/> <img src="images/bapul_5.jpeg" width="160"/> <img src="images/bapul_6.jpeg" width="160"/>
 
