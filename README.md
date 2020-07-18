@@ -4,8 +4,6 @@
 
 Blog : https://yoonhg84.tistory.com
 
-Facebook : https://www.facebook.com/yoonhg84
-
 LinkedIn : https://www.linkedin.com/in/yoonhg84
 
 Github : https://github.com/yoonhg84
