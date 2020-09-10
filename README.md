@@ -41,6 +41,21 @@ Github : https://github.com/yoonhg84
 
 ## 개인 프로젝트
 
+### NINE - 오늘 나의 기록
+
+감정 기록 일기앱
+
+- 기간
+  - 첫 commit : 2020-08-03
+  - v1.0.0 : 2020-09-03
+  - v1.1.0 : 2020-09-09
+
+- Skill : Swift, iOS, SQLite, RxSwift, ReactorKit
+- AppStore (https://apps.apple.com/us/app/id1529972043)
+
+<img src="images/nine_1.png" width="160"/> <img src="images/nine_2.png" width="160"/> <img src="images/nine_3.png" width="160"/>
+
+
 ### 미세냥 
 
 미세먼지와 날씨를 고양이가 알려주는 앱
