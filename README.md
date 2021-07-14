@@ -82,14 +82,14 @@ Github : https://github.com/yoonhg84
 간단한 노트앱 
 - 기간: 2016/11/6 ~ 
 - 사용기술 : Swift, Realm, Realm object server, RxSwift
-- AppStore (https://apple.co/3eHcrek)
+- AppStore (판매중지)
 
 ### 외계어번역
 
 10대에서 주로 사용하는 외계어([도깨비어](https://namu.wiki/w/%EB%8F%84%EA%B9%A8%EB%B9%84%EB%A7%90), 귀신어)를 생성해준다.
 - 기간 : 2010/10/6 ~ 2016/10/18
 - 사용기술 : Swift
-- AppStore (https://apple.co/3h3Y5qa)
+- AppStore (판매중지)
 
 <img src="images/alien_1.png" width="160"/> <img src="images/alien_2.png" width="160"/> <img src="images/alien_3.png" width="160"/> <img src="images/alien_4.png" width="160"/>
 
@@ -147,14 +147,14 @@ Wisdome (http://www.wisdo.me) 모임 조회 앱
 iOS
 - 기간 : 2015/11/17 ~ 2016/04/30
 - 사용기술 : iOS, Swift, Realm
-- AppStore (https://appsto.re/kr/37xQ_.i)
+- AppStore (판매중지)
 
 <img src="images/barovoca_1.jpeg" width="160"/> <img src="images/barovoca_2.jpeg" width="160"/> <img src="images/barovoca_3.jpeg" width="160"/> <img src="images/barovoca_4.jpeg" width="160"/>
 
 Android
 - 기간 : 2015/12/16 ~ 2016/04/30
 - 사용기술 : Android, Kotlin, Realm
-- PlayStore (https://goo.gl/Xqs0Z4)
+- PlayStore (판매중지)
 
 <img src="images/barovoca_android_1.jpg" width="160"/> <img src="images/barovoca_android_2.jpg" width="160"/> <img src="images/barovoca_android_3.jpg" width="160"/> <img src="images/barovoca_android_4.jpg" width="160"/>
 
