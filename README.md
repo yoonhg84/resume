@@ -64,7 +64,7 @@ Github : https://github.com/yoonhg84
 
 - 기간: 2018/12/1 ~ 2018/12/5 (v1.0.4 미세냥 첫 버전)
 - 사용기술 : Swift, RxSwift, Realm, ReactorKit, Firebase
-- AppStore (https://apple.co/3jixes8)
+- AppStore (판매중지)
 
 <img src="images/dust_cat_1.jpg" width="160"/> <img src="images/dust_cat_2.jpg" width="160"/> <img src="images/dust_cat_3.jpg" width="160"/>
 
