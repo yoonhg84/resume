@@ -51,7 +51,7 @@ Github : https://github.com/yoonhg84
   - v1.1.0 : 2020-09-09
 
 - Skill : Swift, iOS, SQLite, RxSwift, ReactorKit
-- AppStore (https://apps.apple.com/us/app/id1529972043)
+- AppStore (판매중지)
 
 <img src="images/nine_1.png" width="160"/> <img src="images/nine_2.png" width="160"/> <img src="images/nine_3.png" width="160"/>
 
