@@ -2,8 +2,6 @@
 
 ## 링크 
 
-Blog : https://yoonhg84.tistory.com
-
 LinkedIn : https://www.linkedin.com/in/yoonhg84
 
 Github : https://github.com/yoonhg84
