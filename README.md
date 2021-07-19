@@ -12,7 +12,7 @@ Github : https://github.com/yoonhg84
 - 팀장 - 2018/09/03 ~ now
 - 사원 - 2016/08/22 ~ 2018/09/02
 
-[바풀/Bapul](https://www.bapul.net)
+바풀/Bapul
 - 2015/01/05 ~ 2016/04/30
 
 [퓨처플레이/FutuerPlay](http://home.futureplay.co)
@@ -24,7 +24,7 @@ Github : https://github.com/yoonhg84
 [팬택/Pantech](https://www.pantech.co.kr)
 - 2011/07/04 ~ 2012/07/31
 
-[CMSKorea](http://www.cmskorea.com)
+CMSKorea
 - 2007/03/05 ~ 2008/02/29
 
 ## 활동
